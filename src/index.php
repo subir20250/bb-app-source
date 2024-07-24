@@ -37,7 +37,7 @@ echo "<table class='container'>
                   </tr>
 				  <tr>
                       <td style='background-color:#3C3C3C'><h2>&nbsp&nbsp What's new</h2></td>
-                      <td style='background-color:#3C3C3C'><h3>&nbsp&nbsp " . 'BugFix - HighScore is Persisted to Database ' . "</h3></td>
+                      <td style='background-color:#3C3C3C'><h3>&nbsp&nbsp " . 'BugFix -1.0- HighScore is Persisted to Database ' . "</h3></td>
                   </tr>";
 echo "</table>";
 
